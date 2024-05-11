@@ -243,8 +243,6 @@ python-json-logger==2.0.7
 pytube==15.0.0
 pytz==2022.6
 pytz-deprecation-shim==0.1.0.post0
-pywin32==306
-pywinpty==2.0.12
 PyYAML==6.0
 pyzmq==25.1.0
 rectangle-packer==2.0.1
